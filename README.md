@@ -1,7 +1,6 @@
 
 
 
-```markdown
 # VPC Setup with Terraform
 
 ## Objective
@@ -151,5 +150,4 @@ terraform destroy
 
 ![Terraform Destroy completed Screenshot](practical_screenshots/terraformtask_KCVPC%2010%20-%20Cleaned%20up%20my%20resources%20using%20terraform%20destroy.PNG)
 
-```
 
